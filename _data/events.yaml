@@ -59,20 +59,3 @@
     https://docs.google.com/spreadsheets/d/e/2PACX-1vRWLZshLicpOFCnmVqlNoiC6e3SuyZiNbRYEOzvsWep-wyPFHUK26fIGN7XLTgE55YW9qkChDbeB1j-/pub?output=csv
   contact: office_saide@iitj.ac.in
   hidden: 0
-- id: null
-  undefined: null
-  name: Lab Meeting
-  start: 14/10/2025
-  end: 14/10/2025
-  description: Meeting
-  type: Meet
-  banner: https://drive.google.com/open?id=1j_ASuSBcT1d1jjXuJpsch-AfnvOWX20Z
-  preset: null
-  tileBackground: null
-  registration: null
-  schedule: null
-  location: null
-  people: null
-  sponsors: null
-  contact: null
-  hidden: .nan
